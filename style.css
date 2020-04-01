@@ -14,6 +14,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   margin: 0;
+  overflow: hidden;
 }
 
 h1 {
@@ -24,6 +25,7 @@ canvas {
   background: #dddcdc;
   display: block;
   border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 .btn {
